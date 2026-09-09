@@ -84,7 +84,7 @@ I'm currently expanding my knowledge in:
 
 ---
 
-# Olá! Eu sou o Luiz 👋
+# Olá! Meu nome é Luiz 👋
 
 Sou estudante de **Análise e Desenvolvimento de Sistemas**, com interesse em desenvolvimento de software, automação, desenvolvimento web, bancos de dados e infraestrutura.
 
